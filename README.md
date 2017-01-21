@@ -1,8 +1,6 @@
-# ToDoGIT
-pre-work for android app
 # Pre-work - *ToDo*
 
-**ToDoGIT** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Leila.Lin**
 
@@ -29,7 +27,7 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -48,20 +46,3 @@ I need to spend more time to familiar my old friend before I get started.
 I think it's a bit difficult to understand the structure of android application as a android app beginner.
 It took me some time to combine actions and the layouts.
 But it becomes enjoy when seeing an app is done by myself.
-
-
-## License
-
-    Copyright [Leila Lin]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
